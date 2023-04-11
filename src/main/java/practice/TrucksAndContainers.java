@@ -1,7 +1,6 @@
 package practice;
 import java.util.Scanner;
 public class TrucksAndContainers {
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int boxes = scanner.nextInt();  //получение количество коробок от пользователя

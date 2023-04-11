@@ -22,7 +22,6 @@ public class Birthdays {
             text = text + count + " - " + formatter1.format(birthday) + "\n";
             birthday = birthday.plusYears(1);
             count++;
-
         }
         return text;
     }
